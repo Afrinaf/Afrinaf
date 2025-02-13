@@ -41,7 +41,7 @@ I am a passionate coder with expertise in **Linux system administration**, **Mac
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrinaf&layout=compact&theme=radical) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrinaf&layout=compact&theme=radical) 
 
 
 </div>
