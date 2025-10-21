@@ -5,14 +5,15 @@
   <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Banner" width="600"/>
 </div>
 
----
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## 🚀 About Me  
 I'm a **Computer Science Enthusiast** driven by curiosity and determination.  
 I specialize in **Linux Administration**, **Machine Learning**, and **Full-Stack Web Development**.  
 I love transforming ideas into impactful digital solutions while maintaining clean, efficient, and scalable code.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 Tech Stack  
 
@@ -39,7 +40,7 @@ I love transforming ideas into impactful digital solutions while maintaining cle
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Certifications  
 
@@ -48,7 +49,7 @@ I love transforming ideas into impactful digital solutions while maintaining cle
 - **Red Hat Certified System Administrator (RHCSA)**  
   [![RHCSA](https://img.shields.io/badge/RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/da95711b-56fd-4e89-9289-a81654a7c5b6/public_url)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Insights  
 
@@ -59,14 +60,14 @@ I love transforming ideas into impactful digital solutions while maintaining cle
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌱 Current Focus  
-🔹 Developing **AI-driven web solutions** using **Flask + ML models**  
+🔹 Developing **AI-driven web solutions**  
 🔹 Building scalable dashboards and prediction systems  
 🔹 Exploring **Generative AI & Data Engineering**  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💌 Let's Connect  
 
@@ -75,7 +76,7 @@ I love transforming ideas into impactful digital solutions while maintaining cle
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afrinaf)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/afrinaf/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00FFFF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+😊;Let's+build+something+awesome+together!+🚀" alt="Typing SVG" />  
