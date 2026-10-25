@@ -1,16 +1,13 @@
 # 👋 Hi, I'm **Afrin O M**  
-### 💻 Tenacious Coder | Machine Learning Enthusiast | Full-Stack Developer  
+### 💻 Tenacious Coder | Generative AI | Data Engineering 
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Banner" width="600"/>
-</div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
 ## 🚀 About Me  
 I'm a **Computer Science Enthusiast** driven by curiosity and determination.  
-I specialize in **Linux Administration**, **Machine Learning**, and **Full-Stack Web Development**.  
+I specialize in **Generative AI** and **Data Engineering**.  
 I love transforming ideas into impactful digital solutions while maintaining clean, efficient, and scalable code.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
